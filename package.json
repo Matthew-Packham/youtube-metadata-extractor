@@ -1,0 +1,25 @@
+{
+  "name": "videos",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@googleapis/youtube": "^20.0.0",
+    "csv-parse": "^5.6.0",
+    "csv-stringify": "^6.5.2",
+    "dotenv": "^16.4.7",
+    "he": "^1.2.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/he": "^1.2.3",
+    "@types/node": "^22.13.2"
+  }
+}
